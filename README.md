@@ -10,6 +10,9 @@
 <p>Interests:</p>
 <p>🚩 Capture-The-Flags, 💻 Artificial Intelligence, 📈 Quant Finance </p>
 
+Reach out to me on these platforms:
+<br>
+[![LinkedIn](https://img.shields.io/badge/-King%20Yeh-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-yeh-cheah/)
 
 
 <!--
