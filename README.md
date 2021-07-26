@@ -4,7 +4,7 @@
   ![Proudest moment of my life](asset_1.jpg)
 
 <br>
-<p>$~: whoami</p>
+<p>root@life:~$ whoami</p>
 <p> I'm<strong> King Yeh</strong>, Freshman pursuing Computer Science and Business Management in Singapore Management University. </p>
 <br>
 <p>Interests:</p>
