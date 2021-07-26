@@ -5,7 +5,7 @@
 
 <br>
 <p>root@life:~$ whoami</p>
-<p> I'm<strong> King Yeh</strong>, Freshman pursuing Computer Science and Business Management in Singapore Management University. </p>
+<p> I'm<strong> King Yeh</strong>, Computer Science and Business Management student in Singapore Management University. </p>
 <br>
 <p>Interests:</p>
 <p>🚩 Capture-The-Flags, 💻 Artificial Intelligence, 📈 Quant Finance </p>
