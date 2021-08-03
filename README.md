@@ -17,7 +17,7 @@ Reach out to me on these platforms:
 [![LinkedIn](https://img.shields.io/badge/-King%20Yeh-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-yeh-cheah/)
 
 
-[![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+[![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xbowery/xbowery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
