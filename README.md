@@ -1,4 +1,5 @@
 ### Hi there, welcome to my Github page! 👋
+
 <br>
 
   ![Proudest moment of my life](asset_1.jpg)
@@ -18,6 +19,8 @@ Reach out to me on these platforms:
 
 
 [![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xbowery.visitor-badge)
 
 <!--
 **xbowery/xbowery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
