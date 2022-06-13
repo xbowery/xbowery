@@ -18,9 +18,15 @@ Reach out to me on these platforms:
 [![LinkedIn](https://img.shields.io/badge/-King%20Yeh-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-yeh-cheah/)
 
 
-[![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/xbowery)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xbowery.visitor-badge)
+
+## Notable Project Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=CS203_Proj&show_owner=true)](https://github.com/xbowery/CS203_Proj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=android-portfolio-management&show_owner=true)](https://github.com/xbowery/android-portfolio-management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=HEAP-telebot-workshop&show_owner=true)](https://github.com/xbowery/HEAP-telebot-workshop)
 
 <!--
 **xbowery/xbowery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
