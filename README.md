@@ -20,7 +20,7 @@ Reach out to me on these platforms:
 
 [![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/xbowery)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fwww.github.com%2Fxbowery&label=Visitors&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxbowery&countColor=%23263759)
 
 ## Notable Project Repositories
 
