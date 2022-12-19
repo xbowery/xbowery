@@ -22,6 +22,12 @@ Reach out to me on these platforms:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxbowery&countColor=%23263759)
 
+## Some Deployed Streamlit Projects
+1. [News Articles Fetcher (Python)](https://xbowery-news-articles-fetcher-singapore-news-onlyapp-nse2t0.streamlit.app/)
+2. [SMU Library Occupancy Checker (Python)](https://xbowery-smu-library-occupancy-streamlitapp-3jmo2d.streamlit.app/)
+3. [Sample Stock Data Trends (Python)](https://xbowery-stock-data-streamlit-app-n8zrgt.streamlit.app/)
+
+
 ## Notable Project Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=CS203_Proj&show_owner=true)](https://github.com/xbowery/CS203_Proj)
