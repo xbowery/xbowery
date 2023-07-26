@@ -34,6 +34,20 @@ Reach out to me on these platforms:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=android-portfolio-management&show_owner=true)](https://github.com/xbowery/android-portfolio-management)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=HEAP-telebot-workshop&show_owner=true)](https://github.com/xbowery/HEAP-telebot-workshop)
 
+## Notable Achievements for Competitions
+- STANDCON CTF 2021 - 1st Runner Up
+- STANDCON CTF 2022 - 2nd Runner Up
+- CodeIT Suisse 2022 - 4th (Team, Singapore)
+- Critical Infrastructure Security Showdown 2021 - Finalist, Overall 5th
+- MITRE eCTF 2022 - 6th (Global)
+- DSTA Cyber Defender’s Discovery Camp (CDDC) 2022 - 6th place in Senior (University) category
+- Freedom CTF Spring 2021 - 10th
+- 2021 Singapore Cyber Conquest - 11th
+- DCTF 2021 - Top 5% among all teams
+- NahamCon CTF 2021 - Top 6% among all teams
+- DawgCTF 2021 - Top 12% among all teams
+- NUS DSO CTF 2021 - Top 30% among all teams
+
 <!--
 **xbowery/xbowery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
