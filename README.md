@@ -36,6 +36,8 @@ Reach out to me on these platforms:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=president_gu_bot&show_owner=true)](https://github.com/xbowery/president_gu_bot)
 
 ## Notable Achievements for Competitions
+
+### CTFs & Coding Competitions
 - STANDCON CTF 2021 - 1st Runner Up
 - STANDCON CTF 2022 - 2nd Runner Up
 - CodeIT Suisse 2022 - 4th (Team, Singapore)
@@ -48,6 +50,9 @@ Reach out to me on these platforms:
 - NahamCon CTF 2021 - Top 6% among all teams
 - DawgCTF 2021 - Top 12% among all teams
 - NUS DSO CTF 2021 - Top 30% among all teams
+
+### Trading Competitions
+- Bloomberg Global Trading Challenge 2023 - Top 25% Globally, 5th in Singapore
 
 <!--
 **xbowery/xbowery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
