@@ -33,6 +33,7 @@ Reach out to me on these platforms:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=CS203_Proj&show_owner=true)](https://github.com/xbowery/CS203_Proj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=android-portfolio-management&show_owner=true)](https://github.com/xbowery/android-portfolio-management)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=HEAP-telebot-workshop&show_owner=true)](https://github.com/xbowery/HEAP-telebot-workshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xbowery&repo=president_gu_bot&show_owner=true)](https://github.com/xbowery/president_gu_bot)
 
 ## Notable Achievements for Competitions
 - STANDCON CTF 2021 - 1st Runner Up
