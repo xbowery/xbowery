@@ -21,6 +21,7 @@ Reach out to me on these platforms:
 [![King Yeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbowery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/xbowery)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxbowery&countColor=%23263759)
+![Stars](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/xbowery)
 
 ## Deployed Streamlit Projects
 1. [News Articles Fetcher (Python)](https://xbowery-news-articles-fetcher-singapore-news-onlyapp-nse2t0.streamlit.app/)
